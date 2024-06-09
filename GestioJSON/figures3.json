@@ -1,0 +1,36 @@
+{"figures":[
+		{
+			"posicio": {
+					"x": 0,
+					"y": 0
+			},
+			"forma": "rodona",
+			"diametre": 25
+		},
+		{
+			"posicio": {
+					"x": 30,
+					"y": 40
+			},
+			"forma": "rodona",
+			"diametre": 30
+		},
+		{
+			"posicio": {
+					"x": 70,
+					"y": 80
+			},
+			"forma": "quadrat",
+			"costat": 35
+		},
+		{
+			"posicio": {
+					"x": 130,
+					"y": 140
+			},
+			"forma": "rodona",
+			"diametre": 65}
+
+]
+}
+

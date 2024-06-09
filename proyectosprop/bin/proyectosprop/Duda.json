@@ -1,0 +1,44 @@
+{
+    "figures": [
+        {
+            "coords": {
+                "x": 0,
+                "y": 0
+            },
+            "forma": "rodona",
+            "mida": 25,
+            "color": "blau"
+        },
+        {
+            "coords": {
+                "x": 30,
+                "y": 40
+            },
+            "forma": "rodona",
+            "mida": 30,
+            "color": "verd"
+        },
+        {
+            "coords": {
+                "x": 70,
+                "y": 80
+            },
+            "forma": "quadrat",
+            "mida": 35,
+            "color": "vermell"
+        },
+        {
+            "coords": {
+                "x": 130,
+                "y": 140
+            },
+            "forma": "rodona",
+            "mida": 65,
+            "color": "Negre"
+        }
+    ],
+    "pantalla": {
+        "x": 700,
+        "y": 900
+    }
+}

@@ -1,0 +1,40 @@
+{"files":[
+	{
+		"y":0,
+		"n": 3,
+		"distancia": 50,
+		"color": {"R": 255, "G": 153, "B": 204},
+		"tipus": "rodonaPlena"
+	},
+	{
+		"y":30,
+		"n": 5,
+		"distancia": 30,
+		"color": {"R": 153, "G": 102, "B": 255},
+		"tipus": "rodonaBuida"
+	},
+	{
+		"y":70,
+		"n": 2,
+		"distancia": 80,
+		"color": {"R": 0, "G": 123, "B": 255},
+		"tipus": "rodonaBuida"
+	},
+	{
+		"y":150,
+		"n": 8,
+		"distancia": 25,
+		"color": {"R": 102, "G": 255,"B": 153},
+		"tipus": "rodonaPlena"
+	}
+
+],
+"dades": {"pantalla": {
+			"ample": 400,
+			"altura": 500
+		},
+		"mida_figures": 25
+		
+	}
+}
+
