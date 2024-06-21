@@ -5,44 +5,44 @@
 ![Last Commit](https://img.shields.io/github/last-commit/ReiselRol/PRACTICE-Java?style=for-the-badge)
 ![Issues](https://img.shields.io/github/issues/ReiselRol/PRACTICE-Java?style=for-the-badge)
 
-Este repositorio contiene todas las prácticas realizadas durante el ciclo superior de Desarrollo de Aplicaciones Multiplataforma (DAM).
+This repository contains all the practices carried out during the higher cycle of Multiplatform Application Development (DAM).
 
-## Contenido
+## Content
 
-- **Ejercicios de Fundamentos de Programación**: Programación básica en Java.
-- **Estructuras de Datos**: Implementaciones de listas, pilas, colas, árboles, etc.
-- **Programación Orientada a Objetos (POO)**: Clases, objetos, herencia, polimorfismo, etc.
-- **Bases de Datos**: Conexión y manipulación de bases de datos desde Java.
-- **Interfaces Gráficas**: Desarrollo de aplicaciones con GUI utilizando Swing y JavaFX.
-- **Desarrollo Web**: Aplicaciones web utilizando servlets y JSP.
+- **Programming Fundamentals Exercises**: Basic programming in Java.
+- **Data Structures**: Implementations of lists, stacks, queues, trees, etc.
+- **Object-Oriented Programming (OOP)**: Classes, objects, inheritance, polymorphism, etc.
+- **Databases**: Connecting and manipulating databases from Java.
+- **Graphical Interfaces**: Developing applications with GUI using Swing and JavaFX.
+- **Web Development**: Web applications using servlets and JSP.
 
-## Requisitos
+## Requirements
 
-- Java JDK 8 o superior.
-- Un IDE como IntelliJ IDEA, Eclipse, o NetBeans.
+- Java JDK 8 or higher.
+- An IDE like IntelliJ IDEA, Eclipse, or NetBeans.
 
-## Instalación
+## Installation
 
-1. Clona el repositorio:
+1. Clone the repository:
     ```bash
     git clone https://github.com/ReiselRol/PRACTICE-Java.git
     ```
-2. Abre el proyecto con tu IDE favorito.
-3. Compila y ejecuta las prácticas según sea necesario.
+2. Open the project with your favorite IDE.
+3. Compile and run the practices as needed.
 
-## Uso
+## Usage
 
-Cada carpeta dentro del repositorio corresponde a una práctica diferente. Lee el README de cada carpeta para más detalles sobre cada práctica específica.
+Each folder within the repository corresponds to a different practice. Read the README of each folder for more details about each specific practice.
 
-## Contribuciones
+## Contributions
 
-Las contribuciones son bienvenidas. Por favor, abre un issue o crea un pull request para discutir los cambios que desees realizar.
+Contributions are welcome. Please open an issue or create a pull request to discuss any changes you wish to make.
 
-## Licencia
+## License
 
-Este proyecto está licenciado bajo la licencia MIT. Ver el archivo [LICENSE](LICENSE) para más detalles.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
-## Contacto
+## Contact
 
-- **Autor**: Ramon Rios
+- **Author**: Ramon Rios
 - **GitHub**: [ReiselRol](https://github.com/ReiselRol)
